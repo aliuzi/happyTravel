@@ -1,0 +1,15 @@
+//
+//  preHeader.pch
+//  喜游迹
+//
+//  Created by LEO on 12/29/15.
+//  Copyright © 2015 Leo_Lei. All rights reserved.
+//
+
+#ifndef preHeader_h
+#define preHeader_h
+
+//-----------------------------------自定义宏------------------------------------
+#import "Common.h"
+
+#endif /* preHeader_h */

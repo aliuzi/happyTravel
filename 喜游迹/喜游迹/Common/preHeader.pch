@@ -1,0 +1,37 @@
+//
+//  preHeader.pch
+//  喜游迹
+//
+//  Created by LEO on 12/29/15.
+//  Copyright © 2015 Leo_Lei. All rights reserved.
+//
+
+#ifndef preHeader_h
+#define preHeader_h
+//----------------------------------第三方SDK------------------------------------
+/*网络请求*/
+#import "AFNetworking.h"
+
+/*网络请求时的动画加载*/
+#import "MBProgressHUD.h"
+
+/*加载网络图片*/
+#import "UIImageView+WebCache.h"
+
+/*上拉、下拉获取数据*/
+#import "WXRefresh.h"
+
+/*富文本操作*/
+#import "RegexKitLite.h"
+
+//--------------------------------自定义类目、扩展---------------------------------
+/*获取视图的视图控制器*/
+#import "UIView+UIViewController.h"
+
+/*视图属性的扩展*/
+#import "UIViewExt.h"
+
+//-----------------------------------自定义宏------------------------------------
+#import "Common.h"
+
+#endif /* preHeader_h */
